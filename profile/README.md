@@ -12,4 +12,4 @@
   <a href="https://tauric.ai">Website</a>
 </p>
 
-**Tauric Research's mission is to redefine trading intelligence through AI.** We harness large langauge model, advanced reasoning, and autonomous agents to elevate trading excellence.
+**Tauric Research's mission is to redefine trading intelligence through AI.** We harness large language models, advanced reasoning, and autonomous agents to elevate trading excellence.
